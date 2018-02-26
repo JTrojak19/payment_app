@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpunit/phpunit": "^7.0",
+        "stripe/stripe-php": "^6.3"
+    }
+}
